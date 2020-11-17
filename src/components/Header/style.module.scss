@@ -1,0 +1,15 @@
+.header {
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+
+  .links {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+
+    .link {
+      margin: 0 1rem;
+    }
+  }
+}

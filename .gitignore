@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# vscode settings
+.vscode
+
+# prettier settings
+.prettierrc
+
+# next
+.next
+
+# yarn
+yarn.lock
+
+# env files
+.env.production
+.env.development
